@@ -1,0 +1,99 @@
+#wrapper {
+margin: auto;
+width: 1000px;}
+
+#button{
+width: 250px;
+height:100px;
+background-image: url(img/bgbutton.png);}
+
+#button1{
+width: 250px;
+height:100px;
+background-image: url(img/bgbutton1.png);}
+
+#button2{
+width: 250px;
+height:100px;
+background-image: url(img/bgbutton2.png);}
+
+#button3{
+width: 250px;
+height:50px;
+background-image: url(img/bgback.png);}
+
+#cont 
+{
+width: 1000px;
+height: 620px;
+background : white;
+background-image: url(img/bg.png);
+border-bottom: 1px solid #ddd;
+}
+
+#sidebar {
+float : left;
+left: 0px;
+width: 1000px;
+height: 620px;}
+
+#sidebar2 {
+float: right;
+margin-top: 50px;
+right: 0px;
+width: 300px;
+height: 620px;}
+
+#cont2  {
+width: 1000px;
+height: 680px;
+background : white;
+background-image: url(img/aboutsm.png);
+border-bottom: 1px solid #ddd;
+}
+
+#sidebar3 {
+float : left;
+margin-left: 55px;
+width: 610px;
+margin-top : 210px;
+height: 400px;}
+
+#cont3 {
+width: 1000px;
+height: 720px;
+background : white;
+background-image: url(img/aboutus.png);
+border-bottom: 1px solid #ddd;
+}
+
+#sidebar4 {
+float : right;
+margin-right: 55px;
+width: 395px;
+height: 420px;
+margin-top: 150px;
+background : white;}
+
+#cont4 {
+width: 1000px;
+height: 820px;
+background : white;
+background-image: url(img/quizbg.png);
+border-bottom: 1px solid #ddd;
+}
+
+#sidebar5 {
+float : left;
+margin-left: 55px;
+width: 890px;
+height: 620px;
+margin-top: 180px;
+background : white;
+}
+
+#footer {
+clear: both;
+width: 1000px;
+height: 70px;
+background-image: url(img/foot.jpg)}
